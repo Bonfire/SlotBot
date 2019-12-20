@@ -2,7 +2,7 @@
 A bot written in Python 3.7 that allows users to automate the playing of slot machines on the game Tower Unite. Please read all of the contents below before running this script. **I will not be providing support for this script.**
 
 ## Authors Note (Disclaimer)
-**Using automated scripts such as this can get you banned from Tower Unite. Tower Unite uses Valve Anti-Cheat (VAC) and you will be restricted from all online play PERMANENTLY on games which use VAC should you get banned. Please use this at your own risk and don't hold me liable if you get banned. I had originally not intend to publish this script, but figured it would be a waste of hard work and time not to publish it. It's also very likely that by the time you are reading this, Tower Unite has worked around such methods to bypass their Anti-AFK checking on the slot machines.**
+**Using automated scripts such as this can get you banned from Tower Unite. Tower Unite uses Valve Anti-Cheat (VAC) and you will be restricted from all online play PERMANENTLY on games which use VAC should you get banned. Please use this at your own risk and don't hold me liable if you get banned. It is very likely that by the time you are reading this, Tower Unite has worked around such methods to bypass their Anti-AFK checking on the slot machines.**
 
 You can read more about Valve Anti-Cheat here: https://support.steampowered.com/kb/7849-RADZ-6869/
 
