@@ -34,4 +34,6 @@ You can read more about Valve Anti-Cheat here: https://support.steampowered.com/
  5. Run the script!
 
 ## Use
+You should use the slot machine until you are presented with an AFK check. Once you get an AFK check, you should run the script as it'll make it so that the script and the check are on the same schedule of 15 minutes.
+
 This script will send a spacebar keyboard input every 5 to 15 seconds. This script will also attempt to take a screenshot of the window in the foreground on your computer every 15 minutes for OCR processeing. As a result, it's required that you are not actually doing anything else while running the script. This script was intended for overnight use.
